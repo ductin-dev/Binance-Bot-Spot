@@ -1,7 +1,12 @@
+## Project
+
+Modified bot from tanna (config, docker and supported coins) using pythoon. Help automaticaly tranding SPOT (not include Margin and Futures)
+
+Other tools: www.satdevelop.com
+
 ## Trading description
 
 The trading is done in the Binance market platform, which of course, does not have markets for every altcoin pair. The default bridge currency is Tether (USDT), which is stable by design and compatible with nearly every coin on the platform.
-- satdevelop.com
 
 <p align="center">
   Coin A → USDT → Coin B
