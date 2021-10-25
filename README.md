@@ -1,6 +1,7 @@
 ## Trading description
 
 The trading is done in the Binance market platform, which of course, does not have markets for every altcoin pair. The default bridge currency is Tether (USDT), which is stable by design and compatible with nearly every coin on the platform.
+- satdevelop.com
 
 <p align="center">
   Coin A → USDT → Coin B
@@ -61,8 +62,8 @@ SELL_TIMEOUT: 0
 
 ### Run
 
-```contact www.satdevelop.com
-
+```
+contact www.satdevelop.com
 ```
 
 ### Docker
